@@ -2,6 +2,5 @@ hola mundo
 que tal?
 que 
 si se puede modificar
-siiii 
-se puede 
-ids
+los cambios se puede hacer directamente desde github 
+y los cambios se guardan en disco local
